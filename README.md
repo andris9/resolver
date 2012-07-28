@@ -31,3 +31,4 @@ Use *resolver.resolve(url, callback)*
 ## License
 
 **MIT**
+
