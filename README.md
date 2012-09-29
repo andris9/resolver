@@ -24,7 +24,7 @@ Use *resolver.resolve(url, callback)*
 
     var resolver = require("resolver");
 
-    resolver.resolve("http://bit.ly/PWoeXs", function(err, url){
+    resolver.resolve("http://bit.ly/PWoeXs", function(err, url, filename, contentType){
         console.log(err || url);
     });
 

@@ -1,6 +1,6 @@
 {
   "name": "resolver",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Resolve URL's",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,8 @@
   },
   "homepage": "http://github.com/andris9/resolver",
   "dependencies": {
-    "fetch": "*"
+    "fetch": "*",
+    "mime": "*"
   },
   "devDependencies": {
     "nodeunit": "*"
