@@ -1,6 +1,6 @@
 {
   "name": "resolver",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "description": "Resolve URL's",
   "main": "index.js",
   "scripts": {
